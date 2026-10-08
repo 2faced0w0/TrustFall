@@ -18,7 +18,7 @@ class ModelFactoryTests(unittest.TestCase):
 
     def test_missing_live_configuration_does_not_leak_secret(self) -> None:
         marker = "do-not-leak-this-value"
-        with patch.dict(
+        with patch("models.factory._load_dotenv"), patch.dict(
             os.environ,
             {"TRUSTFALL_PROVIDER": "groq", "GROQ_API_KEY": marker},
             clear=True,
