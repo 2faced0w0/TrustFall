@@ -1,0 +1,8 @@
+{
+  "team_id": "",
+  "members": [],
+  "entry_point": "app.py",
+  "function": "process_request",
+  "provider": "mock",
+  "test_command": "python -m unittest discover -s tests -v"
+}

@@ -1,0 +1,13 @@
+# OPTIONAL illustration only; no mandatory dependency uses this file.
+models: []
+
+rails:
+  input:
+    flows:
+      - trustfall reject extraction
+  dialog:
+    flows:
+      - trustfall explain trust boundary
+  output:
+    flows:
+      - trustfall prevent protected output

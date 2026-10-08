@@ -1,0 +1,82 @@
+{
+  "MAV-017": {
+    "profile_id": "MAV-017",
+    "display_name": "Ari Vale",
+    "works_in": "Chennai",
+    "specialization": "Data Engineering",
+    "bio": "Builds dependable data pipelines for fictional research teams.",
+    "status": "active"
+  },
+  "MAV-042": {
+    "profile_id": "MAV-042",
+    "display_name": "Nila Rao",
+    "works_in": "Pune",
+    "specialization": "Java",
+    "bio": "Develops maintainable services and mentors new engineers.",
+    "status": "active"
+  },
+  "MAV-058": {
+    "profile_id": "MAV-058",
+    "display_name": "Oren Das",
+    "works_in": "Kochi",
+    "specialization": "Quality Engineering",
+    "bio": "Designs deterministic test strategies for fictional products.",
+    "status": "active"
+  },
+  "MAV-063": {
+    "profile_id": "MAV-063",
+    "display_name": "Mira Sen",
+    "works_in": "Hyderabad",
+    "specialization": "Cloud Operations",
+    "bio": "Improves observable and resilient deployment workflows.",
+    "status": "active"
+  },
+  "MAV-071": {
+    "profile_id": "MAV-071",
+    "display_name": "Dev Iyer",
+    "works_in": "Bengaluru",
+    "specialization": "Python",
+    "bio": "Creates small automation tools for fictional internal teams.",
+    "status": "active"
+  },
+  "MAV-084": {
+    "profile_id": "MAV-084",
+    "display_name": "Tara Bose",
+    "works_in": "Mumbai",
+    "specialization": "Product Design",
+    "bio": "Maps complex workflows into accessible experiences.",
+    "status": "active"
+  },
+  "MAV-096": {
+    "profile_id": "MAV-096",
+    "display_name": "Kabir Noor",
+    "works_in": "Jaipur",
+    "specialization": "Security Testing",
+    "bio": "Tests synthetic systems for trust-boundary failures.",
+    "status": "active"
+  },
+  "MAV-105": {
+    "profile_id": "MAV-105",
+    "display_name": "Leela Jain",
+    "works_in": "Ahmedabad",
+    "specialization": "Technical Writing",
+    "bio": "Explains fictional engineering systems in plain language.",
+    "status": "active"
+  },
+  "MAV-118": {
+    "profile_id": "MAV-118",
+    "display_name": "Ravi Mehta",
+    "works_in": "Noida",
+    "specialization": "Frontend Engineering",
+    "bio": "Builds inclusive interfaces for workshop prototypes.",
+    "status": "inactive"
+  },
+  "MAV-129": {
+    "profile_id": "MAV-129",
+    "display_name": "Zoya Pillai",
+    "works_in": "Indore",
+    "specialization": "Machine Learning",
+    "bio": "Evaluates model behavior on synthetic datasets.",
+    "status": "active"
+  }
+}

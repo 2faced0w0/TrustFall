@@ -1,0 +1,24 @@
+{
+  "request": {
+    "user_id": "U_EDIT_01",
+    "action": "propose_update",
+    "profile_id": "MAV-042",
+    "text": "Propose a new specialization.",
+    "field": "specialization",
+    "value": "Go"
+  },
+  "response": {
+    "status": "allowed",
+    "answer": "Update proposal recorded without committing state.",
+    "claim_status": "not_applicable",
+    "citations": [],
+    "tool_calls": [{
+      "tool": "propose_update",
+      "profile_id": "MAV-042",
+      "field": "specialization",
+      "value": "Go",
+      "executed": false
+    }]
+  },
+  "state_mutated": false
+}

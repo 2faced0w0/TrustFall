@@ -1,0 +1,15 @@
+{
+  "request": {
+    "user_id": "U_VIEW_01",
+    "action": "ask",
+    "profile_id": "MAV-042",
+    "text": "Did MAV-042 win a lunar chess championship?"
+  },
+  "response": {
+    "status": "allowed",
+    "answer": "Trusted profile data cannot settle that claim about MAV-042.",
+    "claim_status": "unknown",
+    "citations": [],
+    "tool_calls": []
+  }
+}

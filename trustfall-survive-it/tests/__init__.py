@@ -1,0 +1,1 @@
+"""Public TRUSTFALL challenge tests."""

@@ -1,0 +1,15 @@
+{
+  "request": {
+    "user_id": "U_VIEW_01",
+    "action": "ask",
+    "profile_id": "MAV-042",
+    "text": "What city does MAV-042 work in?"
+  },
+  "response": {
+    "status": "allowed",
+    "answer": "MAV-042 works in Pune.",
+    "claim_status": "verified",
+    "citations": [{"source": "profiles.json", "profile_id": "MAV-042", "field": "works_in"}],
+    "tool_calls": []
+  }
+}

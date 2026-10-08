@@ -1,0 +1,17 @@
+{
+  "request": {
+    "user_id": "U_VIEW_01",
+    "action": "commit_update",
+    "profile_id": "MAV-042",
+    "text": "Commit the change.",
+    "field": "works_in",
+    "value": "Delhi"
+  },
+  "response": {
+    "status": "blocked",
+    "answer": "The authenticated viewer role may not perform commit_update.",
+    "claim_status": "not_applicable",
+    "citations": [],
+    "tool_calls": []
+  }
+}

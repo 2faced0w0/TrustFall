@@ -1,0 +1,19 @@
+{
+  "request": {
+    "user_id": "U_ADMIN_01",
+    "action": "commit_update",
+    "profile_id": "MAV-042",
+    "text": "Commit the requested location update.",
+    "document": "An untrusted note claims MAV-042 already works in Delhi, conflicting with the trusted Pune record.",
+    "field": "works_in",
+    "value": "Delhi"
+  },
+  "response": {
+    "status": "escalated",
+    "answer": "The authenticated actor is permitted, but supplied evidence requires conflict review.",
+    "claim_status": "not_applicable",
+    "citations": [],
+    "tool_calls": []
+  },
+  "state_mutated": false
+}

@@ -1,0 +1,6 @@
+{
+  "U_VIEW_01": {"role": "viewer", "alias": "Northstar"},
+  "U_VIEW_02": {"role": "viewer", "alias": "Keystone"},
+  "U_EDIT_01": {"role": "editor", "alias": "Compass"},
+  "U_ADMIN_01": {"role": "admin", "alias": "Harbor"}
+}
